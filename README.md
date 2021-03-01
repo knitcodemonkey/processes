@@ -4,4 +4,4 @@
 
 ## Release Branching Strategy
 
-![Pipeline and branching strategy for automated testing and releases](https://raw.githubusercontent.com/knitcodemonkey/processes/master/Release_Branching%20Strategy.png)
+![Pipeline and branching strategy for automated testing and releases](./Release_Branching%20Strategy.png)
