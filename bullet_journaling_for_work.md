@@ -181,12 +181,19 @@ Stickers draw the eye, so they are great for helping identify important info or 
 
 ## My Bullet Journal
 
-![Image from iOS (7)](https://user-images.githubusercontent.com/1584489/148616155-47a9d024-4614-459b-ad5b-b5180f5dbe3d.jpg)
-![Image from iOS (6)](https://user-images.githubusercontent.com/1584489/148616157-dfd66f12-10c7-4aff-880e-f2a7bfbf6ec7.jpg)
-![Image from iOS (5)](https://user-images.githubusercontent.com/1584489/148616158-bec423a1-57c0-426a-83c6-e005b5701159.jpg)
-![Image from iOS (4)](https://user-images.githubusercontent.com/1584489/148616159-5011107e-ea5f-4193-aabd-ef9deeb4395c.jpg)
-![Image from iOS (3)](https://user-images.githubusercontent.com/1584489/148616160-c84a8e74-6280-4414-9bc5-8914c881f165.jpg)
-![Image from iOS (2)](https://user-images.githubusercontent.com/1584489/148616162-5f2f51b9-913e-473e-82f3-1da94f8ee355.jpg)
-![Image from iOS (1)](https://user-images.githubusercontent.com/1584489/148616164-bd0c6878-fd34-47c0-a7d9-48aa4a5299d9.jpg)
 ![Image from iOS](https://user-images.githubusercontent.com/1584489/148616167-c99a5397-64df-47c3-9f80-2333e933362c.jpg)
+
+![Image from iOS (1)](https://user-images.githubusercontent.com/1584489/148616164-bd0c6878-fd34-47c0-a7d9-48aa4a5299d9.jpg)
+
+![Image from iOS (2)](https://user-images.githubusercontent.com/1584489/148616162-5f2f51b9-913e-473e-82f3-1da94f8ee355.jpg)
+
+![Image from iOS (3)](https://user-images.githubusercontent.com/1584489/148616160-c84a8e74-6280-4414-9bc5-8914c881f165.jpg)
+
+![Image from iOS (4)](https://user-images.githubusercontent.com/1584489/148616159-5011107e-ea5f-4193-aabd-ef9deeb4395c.jpg)
+
+![Image from iOS (5)](https://user-images.githubusercontent.com/1584489/148616158-bec423a1-57c0-426a-83c6-e005b5701159.jpg)
+
+![Image from iOS (6)](https://user-images.githubusercontent.com/1584489/148616157-dfd66f12-10c7-4aff-880e-f2a7bfbf6ec7.jpg)
+
+![Image from iOS (7)](https://user-images.githubusercontent.com/1584489/148616155-47a9d024-4614-459b-ad5b-b5180f5dbe3d.jpg)
 
