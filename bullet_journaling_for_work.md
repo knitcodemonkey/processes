@@ -10,7 +10,7 @@ I have tried a multitude of digital note-taking and to-do apps, but as soon as t
 >
 > ~ My brain, every single time
 
-A physical notebook that I can touch, see, and takes up space on my desk means that it is never out of sight, or out of mind. Typing is in one ear and out the fingers, but somehow skips my memory. The process of writing dramatically increases the chances I’ll remember what I wrote than anything I type. 
+A physical notebook that I can touch, see, and takes up space on my desk means that it is never out of sight, or out of mind. Typing is in one ear and out the fingers, but somehow skips my memory. The process of writing dramatically increases the chances I’ll remember what I wrote over anything I type. 
 
 > College students who took notes on a laptop did not learn as much as those who wrote their notes on paper, even though the laptop group took more notes.
 > 
