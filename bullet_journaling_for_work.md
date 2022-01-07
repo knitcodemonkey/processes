@@ -55,6 +55,10 @@ Separate books means more chances to lose both the books and the context. The mo
 
 The act of preparing my bullet journal for the next block of information, whether it be a 1:1, checklist item, or notes, is a ritual that prepares my mind for what is to come. I consider it an act of respect to give my undivided attention to the person or task at hand. Though it may seem insignificant to jot down my thoughts for what I’m putting down, and write down the date for the upcoming task or event, it is ritual nonetheless. The space for creative flow to occur has been created. The focus has been defined.
 
+---
+
+## Focus and Invading Ideas
+
 ![Carried away by all those thoughts and ideas you don’t want to forget](https://user-images.githubusercontent.com/1584489/148611142-26dd416d-9d18-4885-aa04-19101eb97a5b.png)
 
 
@@ -65,6 +69,9 @@ If I have decided that the idea is worth pursuing, I use either my phone timer o
 ---
 
 ## Visual Language
+
+### Date and @name entries, notes, 1:1s
+
 Write down the date, and person who inspired you to put this thing down on paper
 Dating and @naming my entries has been one of the most powerful uses of my bullet journal. I can go back to an entry to identify when something happened so that I can then go back to those dates in Slack to find the rest of the notes, context, or any other info I missed. 
 
