@@ -30,7 +30,7 @@ What you think of when someone says “Bullet Journal”
 ![This is also bullet journaling. Don’t be fooled by instagram.](https://user-images.githubusercontent.com/1584489/148611062-3a113f36-fbd4-4be4-89e0-9f268e2a8d3f.png)
 This is also bullet journaling. Don’t be fooled by instagram.
 
-Though beautiful layouts are one way to use a bullet journal, so is the minimalistic approach. Remember that the system is supposed to adapt to you, not you to the system.
+Though beautiful layouts are one way to use a bullet journal, so is the minimalistic approach. **Remember that the system is supposed to adapt to you, not you to the system.**
 
 I have gone through several types of spreads in the years I’ve been bullet journaling. Depending on my needs, I’ve used schedule-based, checklist-based, and journaling-based layouts. Some have been prettily decorated. Others have been chicken scratch and scribbles. Whatever I needed at the time is “the right way.”
 
@@ -46,9 +46,9 @@ Separate books means more chances to lose both the books and the context. The mo
 ---
 
 ## Ritual is a shortcut for getting into the zone
-Creative flow is the experience of being completely immersed, present, focused and in the zone. The inner critic and mental chatter are quieted, novel ideas are born, and random associations collide. 
+_Creative flow_ is the experience of being completely immersed, present, focused and _in the zone_. The inner critic and mental chatter are quieted, novel ideas are born, and random associations collide. 
 
-> When inspiration is elusive, ritual appears to offer a shortcut to creative flow.
+> When inspiration is elusive, _ritual_ appears to offer a shortcut to _creative flow_.
 > 
 > ~ Rex Jung, neuropsychologist
 
