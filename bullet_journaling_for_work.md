@@ -176,3 +176,20 @@ If multiple pens are too much, Multi-color or multi-function pens are a great op
 Stickers draw the eye, so they are great for helping identify important info or categories.
 - [Calendar tab stickers](https://www.amazon.com/Calendar-Stickers-Monthly-Planner-Adhesive/dp/B08FSV626X)
 - [Reusable/moveable tabs](https://www.amazon.com/Post-Writable-Repositionable-Dispenser-686-ALOPRYT/dp/B00NPCD8MW/)
+
+---
+
+## My Bullet Journal
+
+![Image from iOS (1)](https://user-images.githubusercontent.com/1584489/148615770-15e82614-3863-428c-bfe6-ce808dc44500.jpg)
+![Image from iOS](https://user-images.githubusercontent.com/1584489/148615778-06530d84-fb27-49a5-8027-6616dc33b574.jpg)
+![Image from iOS (8)](https://user-images.githubusercontent.com/1584489/148615780-3b358999-b066-487b-9a7e-b8f2b65a9b06.png)
+![Image from iOS (7)](https://user-images.githubusercontent.com/1584489/148615786-23320335-4bca-4b7e-b927-ee5a86f4febd.png)
+![Image from iOS (6)](https://user-images.githubusercontent.com/1584489/148615793-37c0143c-90c5-48cf-a215-795430800f68.png)
+![Image from iOS (5)](https://user-images.githubusercontent.com/1584489/148615795-e0eeec72-6312-4270-94ca-535e5b90d629.png)
+![Image from iOS (4)](https://user-images.githubusercontent.com/1584489/148615799-4a2221d3-f8a6-4084-857e-7ed8e4753207.png)
+![Image from iOS (3)](https://user-images.githubusercontent.com/1584489/148615801-522a93af-4d08-4f50-9b31-70eaab41602d.png)
+![Image from iOS (2)](https://user-images.githubusercontent.com/1584489/148615807-9b5acccc-f337-4e32-a82c-1970beab6f7a.png)
+![Image from iOS (1)](https://user-images.githubusercontent.com/1584489/148615812-4e2fc0db-98ac-4ed8-835b-59a034fbceab.png)
+![Image from iOS](https://user-images.githubusercontent.com/1584489/148615819-350c3d26-068d-44cc-b0a5-48d3d37436fd.png)
+
