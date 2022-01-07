@@ -181,15 +181,12 @@ Stickers draw the eye, so they are great for helping identify important info or 
 
 ## My Bullet Journal
 
-![Image from iOS (1)](https://user-images.githubusercontent.com/1584489/148615770-15e82614-3863-428c-bfe6-ce808dc44500.jpg)
-![Image from iOS](https://user-images.githubusercontent.com/1584489/148615778-06530d84-fb27-49a5-8027-6616dc33b574.jpg)
-![Image from iOS (8)](https://user-images.githubusercontent.com/1584489/148615780-3b358999-b066-487b-9a7e-b8f2b65a9b06.png)
-![Image from iOS (7)](https://user-images.githubusercontent.com/1584489/148615786-23320335-4bca-4b7e-b927-ee5a86f4febd.png)
-![Image from iOS (6)](https://user-images.githubusercontent.com/1584489/148615793-37c0143c-90c5-48cf-a215-795430800f68.png)
-![Image from iOS (5)](https://user-images.githubusercontent.com/1584489/148615795-e0eeec72-6312-4270-94ca-535e5b90d629.png)
-![Image from iOS (4)](https://user-images.githubusercontent.com/1584489/148615799-4a2221d3-f8a6-4084-857e-7ed8e4753207.png)
-![Image from iOS (3)](https://user-images.githubusercontent.com/1584489/148615801-522a93af-4d08-4f50-9b31-70eaab41602d.png)
-![Image from iOS (2)](https://user-images.githubusercontent.com/1584489/148615807-9b5acccc-f337-4e32-a82c-1970beab6f7a.png)
-![Image from iOS (1)](https://user-images.githubusercontent.com/1584489/148615812-4e2fc0db-98ac-4ed8-835b-59a034fbceab.png)
-![Image from iOS](https://user-images.githubusercontent.com/1584489/148615819-350c3d26-068d-44cc-b0a5-48d3d37436fd.png)
+![Image from iOS (7)](https://user-images.githubusercontent.com/1584489/148616155-47a9d024-4614-459b-ad5b-b5180f5dbe3d.jpg)
+![Image from iOS (6)](https://user-images.githubusercontent.com/1584489/148616157-dfd66f12-10c7-4aff-880e-f2a7bfbf6ec7.jpg)
+![Image from iOS (5)](https://user-images.githubusercontent.com/1584489/148616158-bec423a1-57c0-426a-83c6-e005b5701159.jpg)
+![Image from iOS (4)](https://user-images.githubusercontent.com/1584489/148616159-5011107e-ea5f-4193-aabd-ef9deeb4395c.jpg)
+![Image from iOS (3)](https://user-images.githubusercontent.com/1584489/148616160-c84a8e74-6280-4414-9bc5-8914c881f165.jpg)
+![Image from iOS (2)](https://user-images.githubusercontent.com/1584489/148616162-5f2f51b9-913e-473e-82f3-1da94f8ee355.jpg)
+![Image from iOS (1)](https://user-images.githubusercontent.com/1584489/148616164-bd0c6878-fd34-47c0-a7d9-48aa4a5299d9.jpg)
+![Image from iOS](https://user-images.githubusercontent.com/1584489/148616167-c99a5397-64df-47c3-9f80-2333e933362c.jpg)
 
