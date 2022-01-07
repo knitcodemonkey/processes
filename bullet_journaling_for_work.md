@@ -46,8 +46,9 @@ Separate books means more chances to lose both the books and the context. The mo
 ---
 
 ## Ritual is a shortcut for getting into the zone
-_Creative flow_ is the experience of being completely immersed, present, focused and _in the zone_. The inner critic and mental chatter are quieted, novel ideas are born, and random associations collide. 
 
+> _Creative flow_ is the experience of being completely immersed, present, focused and _in the zone_. The inner critic and mental chatter are quieted, novel ideas > are born, and random associations collide. 
+>
 > When inspiration is elusive, _ritual_ appears to offer a shortcut to _creative flow_.
 > 
 > ~ Rex Jung, neuropsychologist
