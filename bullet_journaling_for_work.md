@@ -122,18 +122,18 @@ I use specific ones made for fountain pens, but if you’re not that particular,
 
 #### A5 Notebooks (~5¾ inches by 8¼ inches)
 
-- Leuchtturm1917 Dotted Notebook
-- Hustle Co - Classic Pro Dotted
-- Scribbles That Matter - Dotted
-- Endless Works Recorder A5 Notebook -Dot Grid (Fountain Pen friendly)
-- Breeze A5 Notebook with Tomoe River Paper /WHITE (Fountain Pen friendly)
+- [Leuchtturm1917 Dotted Notebook](https://www.amazon.com/Leuchtturm1917-Medium-Dotted-Hardcover-Notebook/dp/B002TSIMW4)
+- [Hustle Co - Classic Pro Dotted](https://www.amazon.com/Thick-Dotted-Journal-Hardcover-Ink-Proof/dp/B07F43QLG4/)
+- [Scribbles That Matter - Dotted](https://www.amazon.com/Dotted-Journal-Scribbles-That-Matter/dp/B01N63VX52/)
+- [Endless Works Recorder A5 Notebook -Dot Grid](https://www.gouletpens.com/products/endless-works-recorder-notebook-infinite-space-dot-grid) (Fountain Pen friendly)
+- [Breeze A5 Notebook with Tomoe River Paper /WHITE](https://www.etsy.com/listing/532344233/breeze-a5-notebook-with-tomoe-river) (Fountain Pen friendly)
  
 
 #### A6 Notebooks (~3.5 inches x 5.5 inches)
 
-- Spiral-bound dotted notebook
-- Moleskine Classic Notebook, Soft Cover, Pocket (3.5" x 5.5") Dotted
-- Moleskine Cashier Journal, Soft Cover, Pocket (3.5" x 5.5") Dotted, Black, 64 Pages (Set of 3)
+- [Spiral-bound dotted notebook](https://www.amazon.com/Yansanido-Notebook-Notebooks-Journals-Planner/dp/B08SJH1FP9/)
+- [Moleskine Classic Notebook, Soft Cover, Pocket (3.5" x 5.5") Dotted](https://smile.amazon.com/Moleskine-Classic-Notebook-Softcover-8055002854627/dp/B01K03D8DM)
+- [Moleskine Cashier Journal, Soft Cover, Pocket (3.5" x 5.5") Dotted, Black, 64 Pages (Set of 3)](https://smile.amazon.com/Moleskine-Cahier-Journal-Dotted-Pocket/dp/B079ZSFH9T/)
 
 ### Notebook Covers
 
@@ -141,12 +141,12 @@ Notebook covers can help keep your pens, notebooks, and stickers together. Also,
 
 #### A5
 
-- Leather Zippered 10 Slots Pen Case with A5 Notebook Holder - Crazy Horse Brown 
-- This shop has notebooks that place the pen holder on the outside, which I used until I ended up with too many pens. SovaArtisanGoods | Etsy 
+- [Leather Zippered 10 Slots Pen Case with A5 Notebook Holder - Crazy Horse Brown](https://www.galenleather.com/collections/zippered-pen-pencil-cases/products/leather-zippered-10-slots-pen-case-with-a5-notebook-holder-crazy-horse-brown)
+- [This shop](https://www.etsy.com/shop/SovaArtisanGoods) has notebooks that place the pen holder on the outside, which I used until I ended up with too many pens. [SovaArtisanGoods | Etsy](https://www.etsy.com/shop/SovaArtisanGoods)
 
 #### A6
 
-Leather Zippered 5 Slots Pen Case - Crazy Horse Brown 
+- [Leather Zippered 5 Slots Pen Case - Crazy Horse Brown](https://www.galenleather.com/collections/leather-notebook-covers/products/leather-zippered-5-slots-pen-case-crazy-horse)
 
 ### Notebook features I look for:
 
@@ -160,16 +160,18 @@ Leather Zippered 5 Slots Pen Case - Crazy Horse Brown
 
 ### Pens
 I use multiple pens with different ink colors to keep the information segregated and/or color-coded.
-- Micron pens in different weights for design elements.
-- ultra-fine multicolored pens is a great option for color coding.
-- Midliner brush & pen markers for highlighting or breaking up info.
+- [Micron pens](https://www.amazon.com/Sakura-Pigma-30062-Micron-Blister/dp/B0008G8G8Y/) in different weights for design elements.
+- [Ultra-fine multicolored pens](https://www.amazon.com/gp/product/B00DV6EJ4I/) are a great option for color coding.
+- [Midliner brush & pen markers](https://www.amazon.com/Zebra-Pen-Mildliner-Assorted-10-Count/dp/B07NDZRXT8/) for highlighting or breaking up info.
 
 If multiple pens are too much, Multi-color or multi-function pens are a great option
 
-- Pilot Dr. Grip 4+1, 4 Color 0.7 mm Ballpoint Multi Pen & 0.5 mm Mechanical Pencil
-- Multicolor Ballpoint Pen 0.5, 4-in-1 Colored Pens Fine Point
-- Good Ole Fashioned BIC 4-in-1 Pen
+- [Pilot Dr. Grip 4+1, 4 Color 0.7 mm Ballpoint Multi Pen & 0.5 mm Mechanical Pencil](https://www.amazon.com/gp/product/B0788QVV5G/)
+- [Multicolor Ballpoint Pen 0.5, 4-in-1 Colored Pens Fine Point](https://www.amazon.com/gp/product/B08NHYS79B/)
+- [Good Ole Fashioned BIC 4-in-1 Pen](https://www.amazon.com/BIC-4-Color-Ballpoint-Assorted-2-Count/dp/B00K0TRXJC/r)
 
 ### Stickers and Printouts
 
-Stickers draw the eye, so they are great for helping identify particular calendar tab stickers, and reusable/moveable tabs
+Stickers draw the eye, so they are great for helping identify important info or categories.
+- [Calendar tab stickers](https://www.amazon.com/Calendar-Stickers-Monthly-Planner-Adhesive/dp/B08FSV626X)
+- [Reusable/moveable tabs](https://www.amazon.com/Post-Writable-Repositionable-Dispenser-686-ALOPRYT/dp/B00NPCD8MW/)
