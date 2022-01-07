@@ -24,34 +24,39 @@ In this article, I have detailed some of the philosophies and visual language qu
 
 Many people hate the idea of a bullet journal, but I believe that is because the first image that comes to mind is a gloriously decorated book filled with calligraphy, art, and a little bit of actual note-taking.
 
-
+![What you think of when someone says “Bullet Journal”](https://user-images.githubusercontent.com/1584489/148611035-36b577db-e000-4e07-9c49-6423ed1f8e6f.png)
 What you think of when someone says “Bullet Journal”
 
-
+![This is also bullet journaling. Don’t be fooled by instagram.](https://user-images.githubusercontent.com/1584489/148611062-3a113f36-fbd4-4be4-89e0-9f268e2a8d3f.png)
 This is also bullet journaling. Don’t be fooled by instagram.
 
 Though beautiful layouts are one way to use a bullet journal, so is the minimalistic approach. Remember that the system is supposed to adapt to you, not you to the system.
 
 I have gone through several types of spreads in the years I’ve been bullet journaling. Depending on my needs, I’ve used schedule-based, checklist-based, and journaling-based layouts. Some have been prettily decorated. Others have been chicken scratch and scribbles. Whatever I needed at the time is “the right way.”
 
-Why I don’t separate my work and home bullet journals
+---
+
+## Why I don’t separate my work and home bullet journals
 I am a whole person. I have work. I have family. I have struggles, life events, and work stress. No matter how hard I try to divide my life into neat boxes, they still influence each other. Stress at home may result in distracted and low productivity at work. Getting praised at work may result in a fancier dinner. Sleep, mood, and how well I take care of myself and those that depend on me are influenced by my whole self, not just my work self or home self. 
 
 By keeping all parts of my life in one book, I can better analyze why I had a rough work week, or why I’m feeling especially exhausted at the end of the day. It can also help me see the patterns behind high work productivity and positive family interactions. 
 
 Separate books means more chances to lose both the books and the context. The more things I have to track, remember, and associate, the less likely it is that it will be tracked, remembered, or associated. One person, one life, one book. 
 
-Ritual is a shortcut for getting into the zone
+---
+
+## Ritual is a shortcut for getting into the zone
 Creative flow is the experience of being completely immersed, present, focused and in the zone. The inner critic and mental chatter are quieted, novel ideas are born, and random associations collide. 
 
-When inspiration is elusive, ritual appears to offer a shortcut to creative flow.
-
-~ Rex Jung, neuropsychologist
+> When inspiration is elusive, ritual appears to offer a shortcut to creative flow.
+> 
+> ~ Rex Jung, neuropsychologist
 
 The act of preparing my bullet journal for the next block of information, whether it be a 1:1, checklist item, or notes, is a ritual that prepares my mind for what is to come. I consider it an act of respect to give my undivided attention to the person or task at hand. Though it may seem insignificant to jot down my thoughts for what I’m putting down, and write down the date for the upcoming task or event, it is ritual nonetheless. The space for creative flow to occur has been created. The focus has been defined.
 
+![Carried away by all those thoughts and ideas you don’t want to forget](https://user-images.githubusercontent.com/1584489/148611142-26dd416d-9d18-4885-aa04-19101eb97a5b.png)
 
-Carried away by all those thoughts and ideas you don’t want to forget
+
 It happens to all of us. A great idea pops into my head that I don’t want to forget. I may keep working, but I’m also now trying to constantly remind myself about this idea. I’m no longer focused on the task at hand. Less focus means more bugs, and fewer chances for my mind to come up with good ideas. It doesn’t take too many thoughts I want to hold onto before I’m no longer working on the task at all. In fact, I may be half way down a 12-hour rat hole before I even realize what has happened. Writing down those ideas in my bullet journal is a way I can let go of those balloon strings, and stay in the zone on my work. 
 
 If I have decided that the idea is worth pursuing, I use either my phone timer or an egg timer to time-box my research for the day. “I’ll give myself an hour, then I’ll write down what I’ve discovered, and get back on task.” The timer enforces the time limit, because our brains are horrible at keeping track of frivolous things like time.
