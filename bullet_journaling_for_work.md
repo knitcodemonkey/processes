@@ -193,7 +193,5 @@ Stickers draw the eye, so they are great for helping identify important info or 
 
 ![Image from iOS (5)](https://user-images.githubusercontent.com/1584489/148616158-bec423a1-57c0-426a-83c6-e005b5701159.jpg)
 
-![Image from iOS (6)](https://user-images.githubusercontent.com/1584489/148616157-dfd66f12-10c7-4aff-880e-f2a7bfbf6ec7.jpg)
-
 ![Image from iOS (7)](https://user-images.githubusercontent.com/1584489/148616155-47a9d024-4614-459b-ad5b-b5180f5dbe3d.jpg)
 
