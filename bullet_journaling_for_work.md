@@ -81,11 +81,11 @@ In this title, I know I’m having a 1:1 with Jen, what day that 1:1 was held, a
 
 #### Checklist item
 
-[ ] Write confluence doc about bullet journaling   ← 55
+- [ ] Write confluence doc about bullet journaling   ← 55
 
 In this item, I know I have previously written notes for it on page 55. I can go back to read those notes without having to write them over again every time. 
 
-[ ] Write confluence doc about bullet journaling   ← 55, 57, 65
+- [ ] Write confluence doc about bullet journaling   ← 55, 57, 65
 
 Though I could use a linked list to keep track of all the notes, sometimes I just need a list of pages. This indicates that I’ve made notes on these pages, and I can copy that list of pages each time I move the checklist item forward to another page/day. It just keeps track of the notes, not the checklist items.
 
