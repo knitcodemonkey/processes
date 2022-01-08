@@ -1,4 +1,4 @@
-# Bullet Journaling for Work
+# Bullet Journaling for ADHD at Work
 Created by Jen Luker
 
 ## Premise
