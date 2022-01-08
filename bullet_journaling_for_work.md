@@ -127,6 +127,8 @@ Most of my house is in a navy blue, black, or white. If my bullet journal is bla
 
 ## Supplies suggestions
 
+These links are mostly to Amazon for convenience. Buying local is always best.
+
 ### Notebooks
 
 I use specific ones made for fountain pens, but if you’re not that particular, I love these in dotted format:
