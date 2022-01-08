@@ -27,7 +27,7 @@ Many people hate the idea of a bullet journal, but I believe that is because the
 
 |  ![a beautifully painted galaxy-themed spread for a week in September](https://user-images.githubusercontent.com/1584489/148611035-36b577db-e000-4e07-9c49-6423ed1f8e6f.png) | ![This is also bullet journaling. Don’t be fooled by instagram.](https://user-images.githubusercontent.com/1584489/148611062-3a113f36-fbd4-4be4-89e0-9f268e2a8d3f.png) |
 |---|---|
-| <b>A beautifully painted galaxy-themed spread for a week in September</b> | <b>This minimalist layout is also bullet journaling. Don’t be fooled by instagram.</b> |
+| <b>A beautifully painted galaxy-themed spread for a week in September</b> | <b>This minimalist layout is also bullet journaling</b> |
 
 
 Though beautiful layouts are one way to use a bullet journal, so is the minimalistic approach. **Remember that the system is supposed to adapt to you, not you to the system.**
