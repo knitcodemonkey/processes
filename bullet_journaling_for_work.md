@@ -4,7 +4,7 @@ Created by Jen Luker
 ## Premise
 TikTok Video: [How 1 day turns into a week](https://vm.tiktok.com/ZM87kaTwF/)
 
-I have tried a multitude of digital note-taking and to-do apps, but as soon as the tab is closed, or the window makes it into the background, it might as well not exist. 
+I'm going to put this out there. I've got ADHD. Executive function issues are no joke. It can feel like an uphill battle trying to fit my neurodivergent brain into the mold this world is made of. When it comes to time management, focus, and staying on task, everyone will tell you their favorite note-taking apps. I have tried a multitude of digital note-taking and to-do apps, but as soon as the tab is closed, or the window makes it into the background, it might as well not exist. 
 
 > Out of sight, out of mind. :smiling_imp: 
 >
