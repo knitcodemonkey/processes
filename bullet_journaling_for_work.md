@@ -31,9 +31,10 @@ Many people hate the idea of a bullet journal, but I believe that is because the
 
 
 
+| ![This is also bullet journaling. Don’t be fooled by instagram.](https://user-images.githubusercontent.com/1584489/148611062-3a113f36-fbd4-4be4-89e0-9f268e2a8d3f.png) |
+|:--:|
+| <b>This is also bullet journaling. Don’t be fooled by instagram.</b>|
 
-![This is also bullet journaling. Don’t be fooled by instagram.](https://user-images.githubusercontent.com/1584489/148611062-3a113f36-fbd4-4be4-89e0-9f268e2a8d3f.png)
-This is also bullet journaling. Don’t be fooled by instagram.
 
 Though beautiful layouts are one way to use a bullet journal, so is the minimalistic approach. **Remember that the system is supposed to adapt to you, not you to the system.**
 
@@ -64,7 +65,10 @@ The act of preparing my bullet journal for the next block of information, whethe
 
 ## Focus and Invading Ideas
 
-![Carried away by all those thoughts and ideas you don’t want to forget](https://user-images.githubusercontent.com/1584489/148611142-26dd416d-9d18-4885-aa04-19101eb97a5b.png)
+| ![Carried away by all those thoughts and ideas you don’t want to forget](https://user-images.githubusercontent.com/1584489/148611142-26dd416d-9d18-4885-aa04-19101eb97a5b.png) |
+|:--:|
+| <b>How many strings of thought can you hold onto before you are carried away?</b>|
+
 
 
 It happens to all of us. A great idea pops into my head that I don’t want to forget. I may keep working, but I’m also now trying to constantly remind myself about this idea. I’m no longer focused on the task at hand. Less focus means more bugs, and fewer chances for my mind to come up with good ideas. It doesn’t take too many thoughts I want to hold onto before I’m no longer working on the task at all. In fact, I may be half way down a 12-hour rat hole before I even realize what has happened. Writing down those ideas in my bullet journal is a way I can let go of those balloon strings, and stay in the zone on my work. 
