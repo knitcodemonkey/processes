@@ -187,6 +187,10 @@ Stickers draw the eye, so they are great for helping identify important info or 
 - [Calendar tab stickers](https://www.amazon.com/Calendar-Stickers-Monthly-Planner-Adhesive/dp/B08FSV626X)
 - [Reusable/moveable tabs](https://www.amazon.com/Post-Writable-Repositionable-Dispenser-686-ALOPRYT/dp/B00NPCD8MW/)
 
+### Misc Supplies
+
+- [Skeleton Binder Clips](https://www.amazon.com/Eforlike-Hollow-Binder-Invoice-Supplies/dp/B01KWMG4LY/) let me clip my pages to lay them flat, but also allow me to see behind them
+
 ---
 
 ## My Bullet Journal
