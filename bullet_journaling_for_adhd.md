@@ -195,7 +195,7 @@ Stickers draw the eye, so they are great for helping identify important info or 
 
 ---
 
-## My Bullet Journal
+## Examples from my bullet journal over the years
 
 ### 2022
 
