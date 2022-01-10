@@ -197,6 +197,10 @@ Stickers draw the eye, so they are great for helping identify important info or 
 
 ## My Bullet Journal
 
+### 2022
+
+I'm continuing to use the Index and Collections spreads from 2019, while continuing my layouts from 2021. Bullet Journals don't need to be decorative to be functional.
+
 ### 2021
 
 As a Senior Staff Engineer, my work changes from day to day. Some days I have checklists. Others are full of 1:1s and mentorship. Sometimes I am in planning and leadership meetings where notes need to be kept online for a wider audience. The complicated spreads still don't fit what I need. I moved to using stickers or printouts for calendars and visual resources, and checklist/journaling layouts for the rest.
