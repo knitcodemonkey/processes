@@ -199,13 +199,18 @@ Stickers draw the eye, so they are great for helping identify important info or 
 
 ### 2021
 
+As a Senior Staff Engineer, my work changes from day to day. Some days I have checklists. Others are full of 1:1s and mentorship. Sometimes I am in planning and leadership meetings where notes need to be kept online for a wider audience. The complicated spreads still don't fit what I need. I moved to using stickers or printouts for calendars and visual resources, and checklist/journaling layouts for the rest.
+
 | ![Checklists and Journaling](https://user-images.githubusercontent.com/1584489/148810394-053a9e19-28ff-4590-b3a7-edaf75abd7e1.jpg) | ![Little's Sketchbook](https://user-images.githubusercontent.com/1584489/148810380-ecf9ab87-fbde-4184-9ed3-81688c88adf8.jpg) |
 |:--:|:--:|
 | Example of a checklist and journaling spread | <b>Sometimes you need a sketchbook</b> | 
 
 ### 2020
+As my job shifted from management back into tech lead and IC, the elaborate spreads were no longer useful. They were left mostly blank. There are no images for this year because a lot of the book was journaling and checklists that included proprietary or personal info. This is the year where I got into fountain pens.
 
 ### 2019
+
+My job, at the time, included a lot of meetings and 1:1s. Drawing out the weekly spreads on Sundays was a sort of mental preparation for my week.
 
 | ![Index, Collections, and Knitting](https://user-images.githubusercontent.com/1584489/148616167-c99a5397-64df-47c3-9f80-2333e933362c.jpg) | ![Weekly Spreads](https://user-images.githubusercontent.com/1584489/148616164-bd0c6878-fd34-47c0-a7d9-48aa4a5299d9.jpg) |
 |:--:|:--:|
