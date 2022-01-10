@@ -218,8 +218,7 @@ Stickers draw the eye, so they are great for helping identify important info or 
 
 | ![Index, Collections, and Knitting](https://user-images.githubusercontent.com/1584489/148616167-c99a5397-64df-47c3-9f80-2333e933362c.jpg) | ![Weekly Spreads](https://user-images.githubusercontent.com/1584489/148616164-bd0c6878-fd34-47c0-a7d9-48aa4a5299d9.jpg) |
 |---|---|
-| Index for single pages, Collections for multiple pages. Green highlighter indicates travel on all calendars. Knitting patterns because @knitcodemonkey 
-| Example of weekly spreads |
+| Index for single pages, Collections for multiple pages. Green highlighter indicates travel on all calendars. Knitting patterns because @knitcodemonkey | Example of weekly spreads |
 
 
 | ![Curved edges draw the eye](https://user-images.githubusercontent.com/1584489/148616162-5f2f51b9-913e-473e-82f3-1da94f8ee355.jpg) |
