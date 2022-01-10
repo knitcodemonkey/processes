@@ -222,6 +222,6 @@ Stickers draw the eye, so they are great for helping identify important info or 
 | Highlighted sections and color contrast define separate blocks of information, and can associate together matching color blocks | Example of linked lists used to connect a person's 1:1s through the book |
 
 
-| ![Different color pen inks](https://user-images.githubusercontent.com/1584489/148616155-47a9d024-4614-459b-ad5b-b5180f5dbe3d.jpg) | |
-|:--:|:--:|
-| Different colors of pen inks can separate questions from answers, different days, different people's 1:1s, different categories of checklist items, etc. Find your own color-coded visual language! | |
+| ![Different color pen inks](https://user-images.githubusercontent.com/1584489/148616155-47a9d024-4614-459b-ad5b-b5180f5dbe3d.jpg) |
+|:--:|
+| Different colors of pen inks can separate questions from answers, different days, different people's 1:1s, different categories of checklist items, etc. Find your own color-coded visual language! |
