@@ -207,7 +207,7 @@ As a Senior Staff Engineer, my work changes from day to day. Some days I have ch
 
 | ![Checklists and Journaling](https://user-images.githubusercontent.com/1584489/148810394-053a9e19-28ff-4590-b3a7-edaf75abd7e1.jpg) | ![Little's Sketchbook](https://user-images.githubusercontent.com/1584489/148810380-ecf9ab87-fbde-4184-9ed3-81688c88adf8.jpg) |
 |:--:|:--:|
-| Example of a checklist and journaling spread | <b>Sometimes you need a sketchbook</b> | 
+| Example of a checklist and journaling spread | <b>Sometimes you (or your little) need a sketchbook</b> | 
 
 ### 2020
 As my job shifted from management back into tech lead and IC, the elaborate spreads were no longer useful. They were left mostly blank. There are no images for this year because a lot of the book was journaling and checklists that included proprietary or personal info. This is the year where I got into fountain pens.
