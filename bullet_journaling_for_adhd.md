@@ -82,7 +82,7 @@ Dating and @naming my entries has been one of the most powerful uses of my bulle
 I use linked lists most often for 1:1s and even some checklist items. 
 
 #### 1:1s example
-On my index page, I will mark the first page I wrote down a 1:1 with Jen, then on each 1:1, I’ll include the linked list as part of the title.
+On my collections page, I will mark the first page I wrote down a 1:1 with Jen, then on each 1:1, I’ll include the linked list as part of the title.
 
 ```
 1:1 w/Jen - 1/7/2022.     ← 73     86 → 
@@ -197,17 +197,49 @@ Stickers draw the eye, so they are great for helping identify important info or 
 
 ## My Bullet Journal
 
-![Image from iOS](https://user-images.githubusercontent.com/1584489/148616167-c99a5397-64df-47c3-9f80-2333e933362c.jpg)
+### 2021
 
-![Image from iOS (1)](https://user-images.githubusercontent.com/1584489/148616164-bd0c6878-fd34-47c0-a7d9-48aa4a5299d9.jpg)
 
-![Image from iOS (2)](https://user-images.githubusercontent.com/1584489/148616162-5f2f51b9-913e-473e-82f3-1da94f8ee355.jpg)
 
-![Image from iOS (3)](https://user-images.githubusercontent.com/1584489/148616160-c84a8e74-6280-4414-9bc5-8914c881f165.jpg)
 
-![Image from iOS (4)](https://user-images.githubusercontent.com/1584489/148616159-5011107e-ea5f-4193-aabd-ef9deeb4395c.jpg)
+| ![Little's Sketchbook](https://user-images.githubusercontent.com/1584489/148810380-ecf9ab87-fbde-4184-9ed3-81688c88adf8.jpg) |
+|:--:|
+| <b>Sometimes you need a sketchbook</b>|
 
-![Image from iOS (5)](https://user-images.githubusercontent.com/1584489/148616158-bec423a1-57c0-426a-83c6-e005b5701159.jpg)
 
-![Image from iOS (7)](https://user-images.githubusercontent.com/1584489/148616155-47a9d024-4614-459b-ad5b-b5180f5dbe3d.jpg)
+| ![Checklists and Journaling](https://user-images.githubusercontent.com/1584489/148810394-053a9e19-28ff-4590-b3a7-edaf75abd7e1.jpg) |
+|:--:|
+| Example of a checklist and journaling spread |
 
+
+### 2020
+
+### 2019
+
+| ![Index, Collections, and Knitting](https://user-images.githubusercontent.com/1584489/148616167-c99a5397-64df-47c3-9f80-2333e933362c.jpg) |
+|:--:|
+| Index for single pages, Collections for multiple pages. Green highlighter indicates travel on all calendars. Knitting patterns because @knitcodemonkey |
+
+| ![Weekly Spreads](https://user-images.githubusercontent.com/1584489/148616164-bd0c6878-fd34-47c0-a7d9-48aa4a5299d9.jpg) |
+|:--:|
+| Example of weekly spreads |
+
+| ![Curved edges draw the eye](https://user-images.githubusercontent.com/1584489/148616162-5f2f51b9-913e-473e-82f3-1da94f8ee355.jpg) |
+|:--:|
+| Curved edges draw the eye. Use stickers, or curvy shapes to define different blocks of info. |
+
+| ![Stickers add depth and draw the eye](https://user-images.githubusercontent.com/1584489/148616160-c84a8e74-6280-4414-9bc5-8914c881f165.jpg) |
+|:--:|
+| Stickers add depth, and because they look slightly out of place, they draw the eye. |
+
+| ![Color Contrast breaks up info](https://user-images.githubusercontent.com/1584489/148616159-5011107e-ea5f-4193-aabd-ef9deeb4395c.jpg) |
+|:--:|
+| Highlighted sections and color contrast define separate blocks of information, and can associate together matching color blocks |
+
+| ![Linked Lists used to associate collections](https://user-images.githubusercontent.com/1584489/148616158-bec423a1-57c0-426a-83c6-e005b5701159.jpg) |
+|:--:|
+| Example of linked lists used to connect a person's 1:1s through the book |
+
+| ![Different color pen inks](https://user-images.githubusercontent.com/1584489/148616155-47a9d024-4614-459b-ad5b-b5180f5dbe3d.jpg) |
+|:--:|
+| Different colors of pen inks can separate questions from answers, different days, different people's 1:1s, different categories of checklist items, etc. Find your own color-coded visual language! |
