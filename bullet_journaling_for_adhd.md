@@ -105,21 +105,24 @@ If it is a long-running project, then I will add the page(s) to my Collections p
 ### Color-coding
 Color-coding runs pretty deep through my bullet journals. 
 
-Green Highlighting: Travel. I mimic this throughout my book for highlighting monthly calendars, day titles, and any notes I may keep about that travel. Speaking of travel, I make sure to write down the flight info, hotel and job site addresses and phone numbers, rental car company info, etc. so that if my phone dies, is lost, or stolen, I can still function. This may err on the side of paranoia, but I’d rather have the info and not need it than need it and have no way of getting it.
+#### Green Highlighting: 
+Travel. I mimic this throughout my book for highlighting monthly calendars, day titles, and any notes I may keep about that travel. Speaking of travel, I make sure to write down the flight info, hotel and job site addresses and phone numbers, rental car company info, etc. so that if my phone dies, is lost, or stolen, I can still function. This may err on the side of paranoia, but I’d rather have the info and not need it than need it and have no way of getting it.
 
-Blocks of text: 
+#### Blocks of text: 
 
 Journaling Layout: Each day has its own color. It makes it easy for me to see the break in thoughts throughout the pages. 
 
 1:1s: Each person has their own ink color. The process of selecting the pen, writing down the title, and including any info I know I need to cover helps me transition my thoughts into the 1:1. This is especially helpful when I’m having to stop working on a project to hold the 1:1. It gives me the initiative to write down any thoughts regarding the project so I can let them go, and review the notes from the last 1:1, and mark the linked-list numbers while I’m at it. Getting in the zone expands beyond code, and into any work you are doing.
 
- Q&A: Questions have different colors than the answers so I can break the info into their Q&A pairs. 
+#### Q&A: 
 
-Borders and Horizontal Rules:
+Questions have different colors than the answers so I can break the info into their Q&A pairs. 
+
+#### Borders and Horizontal Rules:
 
 If, for some reason I do have several topics in the same color, such as a meeting covering several items, drawing boxes or horizontal rules in a color helps be break up the info into their specific topics. The color pops out, so I can see the most important notes on the page. If a collection has a matching color, it can also help remind myself to add that block to a collection’s list of pages.
 
-The book itself
+#### The book itself:
 
 Most of my house is in a navy blue, black, or white. If my bullet journal is black, it will disappear into the recesses of my house. For this reason, my most important items tend to be bright red: my phone case, my bullet journal, the strap on my keys. For someone who can walk a straight line from point A with something in my hand, to point B without it, a brightly colored item is easier to find. 
 
