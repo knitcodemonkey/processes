@@ -1,8 +1,6 @@
 <h1>Engineering Design Principles</h1>
 
-The 5-minute clip at the beginning of this video is absolutely worth watching. Elon Musk explains the Engineering design Principles, and how they apply to building rockets.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WN90HYiFpAw?si=cptAYEkNgUHds0a7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+The 5-minute clip at the beginning of [Marble Machine X - A Lesson in Dumb Design](https://www.youtube.com/embed/WN90HYiFpAw?si=cptAYEkNgUHds0a7) is absolutely worth watching. Elon Musk explains the Engineering design Principles, and how they apply to building rockets.
 
 <h2>Engineering Design Principles:</h2>
 *  Make your requirements less dumb
