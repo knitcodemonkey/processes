@@ -4,15 +4,15 @@ The 5-minute clip at the beginning of [Marble Machine X - A Lesson in Dumb Desig
 
 <h2>Engineering Design Principles:</h2>
 
-*  Make your requirements less dumb
+1.  Make your requirements less dumb
     * Your requirements ARE dumb. In fact, it is even more dangerous if the requirements come from someone highly skilled.
-* Delete the part or process. 
+2. Delete the part or process. 
     * Don’t build things that aren’t problems in the first place
-* Simplify or Optimize 
+3. Simplify or Optimize 
     * If you aren’t having to add requirements back in, you’re not deleting enough
-* Accelerate cycle time 
+4. Accelerate cycle time 
     * Don’t dig your grave faster. Stop digging your grave!
-* Automate 
+5. Automate 
     * The very LAST step when the ROI makes automation worthwhile. 
     * Don’t automate things that shouldn’t exist.
 
