@@ -14,7 +14,7 @@ We are familiar with the concept that mentors can encourage a mentee when they a
 
 Mentorship is a powerful tool. If we consider the mentee as a whole person, mentors can act as teachers, coaches, advocates, supporters, cheerleaders and sponsors. Mentors and mentees will both grow from the relationship.
 
-<h2>Additional Reading</h2>h2>
+<h2>Additional Reading</h2>
 
 https://ashleemboyer.com//blog/what-a-jar-of-buttons-is-teaching-me-about-trust 
 
