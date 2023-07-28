@@ -3,6 +3,7 @@
 The 5-minute clip at the beginning of [Marble Machine X - A Lesson in Dumb Design](https://www.youtube.com/embed/WN90HYiFpAw?si=cptAYEkNgUHds0a7) is absolutely worth watching. Elon Musk explains the Engineering design Principles, and how they apply to building rockets.
 
 <h2>Engineering Design Principles:</h2>
+
 *  Make your requirements less dumb
     * Your requirements ARE dumb. In fact, it is even more dangerous if the requirements come from someone highly skilled.
 * Delete the part or process. 
@@ -22,6 +23,7 @@ Nav has a set of https://navinc.atlassian.net/wiki/spaces/ENG/pages/785219629 th
 These questions are similar to Planning and Design documents such as the PSL, Solution Architecture Summaries (SAS), and ADR. 
 
 <h2>Questions to answer when considering designing a new project</h2>
+
 * What is the problem we are trying to solve?
 * Do we have data to support that this problem exists, needs solving, and needs solving now?
 * How does this idea solve this problem?
