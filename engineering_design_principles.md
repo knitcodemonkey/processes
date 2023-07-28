@@ -5,8 +5,8 @@ The 5-minute clip at the beginning of this video is absolutely worth watching. E
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WN90HYiFpAw?si=cptAYEkNgUHds0a7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <h2>Engineering Design Principles:</h2>
-1. Make your requirements less dumb
-    a. Your requirements ARE dumb. In fact, it is even more dangerous if the requirements come from someone highly skilled.
+1) Make your requirements less dumb
+    a) Your requirements ARE dumb. In fact, it is even more dangerous if the requirements come from someone highly skilled.
 2. Delete the part or process. 
     a. Don’t build things that aren’t problems in the first place
 3. Simplify or Optimize 
