@@ -27,10 +27,10 @@ Questions to figure out what they do and don’t want in their next role that Th
 
 Things you should share with the candidate:
 * What would make me quit?
-* My pet peeves about The Company. 
-   * What experiences do they have that were different?
-   * Bounce ideas around on how you two could work together to solve them
-   * Get them invested in seeing out the solutions before they even finish the hiring process.
+* My pet peeves about The Company.
+    * What experiences do they have that were different?
+    * Bounce ideas around on how you two could work together to solve them
+    * Get them invested in seeing out the solutions before they even finish the hiring process.
 * What makes up for the down sides? Why do I stay?
 
 Optional Last Questions:
