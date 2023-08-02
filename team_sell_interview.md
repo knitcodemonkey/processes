@@ -1,4 +1,4 @@
-<h1>Team Sell Interview</h1>
+# Team Sell Interview
 
 The fine art of airing The Company’s dirty laundry, while also making it clear why we stay.
 
@@ -14,7 +14,7 @@ If a candidate still chooses The Company knowing what adventures and pitfalls aw
 
 ---
 
-Questions to figure out what they do and don’t want in their next role that The Company may not be able to match:
+## Questions to figure out what they do and don’t want in their next role that The Company may not be able to match:
 * What inspires you to be at your best?
 * What frustrates you, and reduces your productivity?
 * What support do you need from your leadership team, your boss most specifically?
@@ -27,7 +27,7 @@ Questions to figure out what they do and don’t want in their next role that Th
 * What are you looking to accomplish in your next role?
 * Is there a particular process you hate with every fiber of your being that you’d like to never have to deal with again?
 
-Things you should share with the candidate:
+## Things you should share with the candidate:
 * What would make me quit?
 * My pet peeves about The Company.
     * What experiences do they have that were different?
@@ -35,7 +35,7 @@ Things you should share with the candidate:
     * Get them invested in seeing out the solutions before they even finish the hiring process.
 * What makes up for the down sides? Why do I stay?
 
-Optional Last Questions:
+## Optional Last Questions:
 * What are your concerns about joining The Company? 
     * What situations sound like they aren’t a good fit, and why?
     * If they nail the issue spot on, then admit it. Better to cut a candidate loose now, than to hire them, onboard them, and lose them shortly after.
@@ -44,7 +44,7 @@ Optional Last Questions:
     * What makes up for those deficits? 
     * What do you like about The Company?
 
-Great questions that would work for the end of any interview in the process:
+## Great questions that would work for the end of any interview in the process:
 * Do you have any feedback about this interview or the hiring process? How could we have made the experience better?
 * What question do you wish we had asked?
 * If you could go back and change an answer to a question, what would you like to say instead?
