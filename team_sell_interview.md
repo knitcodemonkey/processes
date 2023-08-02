@@ -14,7 +14,7 @@ If a candidate still chooses The Company knowing what adventures and pitfalls aw
 
 ---
 
-## Questions to figure out what they do and don’t want in their next role that The Company may not be able to match:
+## Questions to figure out what they do and don’t want in their next role:
 * What inspires you to be at your best?
 * What frustrates you, and reduces your productivity?
 * What support do you need from your leadership team, your boss most specifically?
