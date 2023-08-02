@@ -12,6 +12,8 @@ This is the place where the candidate can truly feel the truth behind “transpa
 
 If a candidate still chooses The Company knowing what adventures and pitfalls await them, they are signing up to help. They are far more likely to stay with us longer. They are more invested in the growth of The Company, the technology, and their team.
 
+---
+
 Questions to figure out what they do and don’t want in their next role that The Company may not be able to match:
 * What inspires you to be at your best?
 * What frustrates you, and reduces your productivity?
