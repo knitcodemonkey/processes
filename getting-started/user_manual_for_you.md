@@ -3,6 +3,7 @@
 You have a new manager, mentor, or team, and want to share the info pertinent to working with you. What do they need to know? What should you share? What should you know about your manager?
 
 <h2>Things to share about you</h2>
+
 - Favorite communication and learning style
 - How you give and receive feedback
 - How you give and receive praise and affirmations
@@ -20,6 +21,7 @@ You have a new manager, mentor, or team, and want to share the info pertinent to
 - What you prefer to work on
 
 <h2>Ask about your manager</h2>
+
 - What are their current priorities, problems and key initiatives?
 - How stressed are they? How busy are they? Do they have time to grow in their role, or are they grinding?
 - Is there anything you can do to help?
@@ -27,6 +29,7 @@ You have a new manager, mentor, or team, and want to share the info pertinent to
 - What are they trying to improve on themselves, and what are their goals?
 
 <h2>Meeting in the middle</h2>
+
 - Once you have shared these things, and gotten the corresponding answers from your cohort, start meeting in the middle. 
 - How best do we communicate with each other?
 - How can you best support each other?
