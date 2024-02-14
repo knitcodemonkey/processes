@@ -106,7 +106,7 @@ If it is a long-running project, then I will add the page(s) to my Collections p
 Color-coding runs pretty deep through my bullet journals. 
 
 #### Green Highlighting: 
-Travel. I mimic this throughout my book for highlighting monthly calendars, day titles, and any notes I may keep about that travel. Speaking of travel, I make sure to write down the flight info, hotel and job site addresses and phone numbers, rental car company info, etc. so that if my phone dies, is lost, or stolen, I can still function. This may err on the side of paranoia, but I’d rather have the info and not need it than need it and have no way of getting it.
+Travel. I mimic this throughout my book for highlighting monthly calendars, day titles, and any notes I may keep about that travel. Speaking of travel, I make sure to write down the flight info, hotel and job site addresses and phone numbers, rental car company info, etc. so that if my phone dies, is lost, or stolen, I can still function. This may err on the side of paranoia, but I’d rather have the info and not need it than need it and have no way of getting it. As a side anecdote, I recently traveled overseas. Getting through the international security checkpoints was a breeze because all the info the security officer needed about my travel plans was all neatly written down ahead of time. He just had to copy it out of my book!
 
 #### Blocks of text: 
 
