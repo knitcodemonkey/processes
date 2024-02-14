@@ -112,7 +112,7 @@ Travel. I mimic this throughout my book for highlighting monthly calendars, day 
 
 Journaling Layout: Each day has its own color. It makes it easy for me to see the break in thoughts throughout the pages. 
 
-1:1s: Each person has their own ink color. The process of selecting the pen, writing down the title, and including any info I know I need to cover helps me transition my thoughts into the 1:1. This is especially helpful when I’m having to stop working on a project to hold the 1:1. It gives me the initiative to write down any thoughts regarding the project so I can let them go, and review the notes from the last 1:1, and mark the linked-list numbers while I’m at it. Getting in the zone expands beyond code, and into any work you are doing.
+Meetings and 1:1s: Each meeting has its own ink color. The process of selecting the pen, writing down the title, and including any info I know I need to cover helps me transition my thoughts into the 1:1. This is especially helpful when I’m having to stop working on a project to hold the meeting or 1:1. It gives me the initiative to write down any thoughts regarding the project so I can let them go and switch pen colors. To prepare for the upcoming meeting, I review the notes from the last meeting, and mark the linked-list numbers. Getting in the zone expands beyond code, and into any work you are doing.
 
 #### Q&A: 
 
