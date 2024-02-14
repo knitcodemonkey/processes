@@ -2,7 +2,7 @@
 
 This repo has an assortment of some of my favorite articles I use regularly as a leader.
 
-# Some of my favorite articles
+## Some of my favorite articles
 
 - [Bullet Journaling for Work](https://github.com/knitcodemonkey/processes/productivity/blob/master/bullet_journaling_for_adhd.md)
 - [Engineering Design Principles](https://github.com/knitcodemonkey/processes/blob/master/software-design_cs_and_engineering/engineering_design_principles.md)
