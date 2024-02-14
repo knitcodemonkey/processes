@@ -110,7 +110,9 @@ Green Highlighting. I mimic this throughout my book for highlighting monthly cal
 
 Speaking of travel, I make sure to write down the flight info, hotel and job site addresses and phone numbers, rental car company info, etc. so that if my phone dies, is lost, or stolen, I can still function. This may err on the side of paranoia, but I’d rather have the info and not need it than need it and have no way of getting it. This actually came in handy, recently, when I traveled overseas. Getting through the international security checkpoints was a breeze because all the info the security officer needed about my travel plans was all neatly written down ahead of time. He just had to copy it out of my book!
 
-![This beautifully painted galaxy-themed spread is bullet journaling.](https://github.com/knitcodemonkey/processes/blob/master/media/IMG_7287.jpg?raw=true)
+| ![Example travel page for my trip to Finland](https://github.com/knitcodemonkey/processes/blob/master/media/IMG_7287.jpg?raw=true) | 
+|:--:|
+| <b>This is what my travel page looked like for my trip to Finland. It included main contact person, travel schedule, flight, hotel, and conference venue info. Everything the security officer needed!</b> |
 
 
 #### Blocks of text: 
