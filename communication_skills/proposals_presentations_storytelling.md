@@ -24,6 +24,22 @@
 - “I would recommend...“-my requirements for this being successful and approachable
 - Benefits/wins/how this positions the company
 
+## Questions to ask when planning a new project
+
+- What is the problem we are trying to solve?
+- Do we have data to support that this problem exists, needs solving, and needs solving now?
+- How does this idea solve this problem?
+- Do we have data to support that this idea is the right solution?
+    - How long will it take to see the Return On Investment (ROI)?
+    - Is it more cost-effective to patch the acute problem, or to solve the underlying issue?
+- What is the MVP (Minimum Viable Product)? What is the MDP(Minimum Delightful Product)?
+    - Minimum Viable Product
+        - The tiniest prototype possible. Ugly, barely functions. Proof of concept.
+        - If you aren’t having to add requirements back in, you aren’t deleting enough.
+    - Minimum Delightful Product
+        - The smallest product where the customer finds it less frustrating to use than to not use it. 
+        - Releasable to customers (internal or external)
+          
 ## The Model, Document, Share Approach
 
 From [An Elegant Puzzle: Systems of Engineering Management](https://lethian.com/elegant-puzzle), this approach is useful for testing ideas and socializing approaches in a way that allows other teams to opt into learning from you. It optimizes for getting things right over doing them quickly, and as such is less useful for mandating practices to teams, which typically wants speed with a reduced focus on pinning down exactly the right practices. Read the original article here: [Model, document and share.](https://lethain.com/model-document-share/)
