@@ -1,6 +1,6 @@
 # Proposals, Presentations, and Storytelling
 
-![Storytelling, a primitive art, is as old as the beginning of mankind. People want to receive what's out there in the form of stories, not just facts, opionion, analysis. ~ Lee Gutkind](/master/media/storytelling.png)
+![Storytelling, a primitive art, is as old as the beginning of mankind. People want to receive what's out there in the form of stories, not just facts, opionion, analysis. ~ Lee Gutkind](/media/storytelling.png)
 
 > Storytelling, a primitive art, is as old as the beginning of mankind. People want to receive what's out there in the form of stories, not just facts, opionion, analysis. ~ Lee Gutkind
 
@@ -15,7 +15,7 @@
 
 ## Template for Formulating a Presentation Proposal
 
-[PDF Template - Formulating a Proposal](https://github.com/knitcodemonkey/processes/blob/master/media/[template]_formulating_a_proposal.pdf)
+[PDF Template - Formulating a Proposal](/media/[template]_formulating_a_proposal.pdf)
 
 - “The problem I intend to solve”
 - How we viewed this in the past
