@@ -1,6 +1,6 @@
 # Proposals, Presentations, and Storytelling
 
-![Storytelling, a primitive art, is as old as the beginning of mankind. People want to receive what's out there in the form of stories, not just facts, opionion, analysis. ~ Lee Gutkind](https://github.com/knitcodemonkey/processes/blob/master/media/storytelling.png)
+![Storytelling, a primitive art, is as old as the beginning of mankind. People want to receive what's out there in the form of stories, not just facts, opionion, analysis. ~ Lee Gutkind](/master/media/storytelling.png)
 
 > Storytelling, a primitive art, is as old as the beginning of mankind. People want to receive what's out there in the form of stories, not just facts, opionion, analysis. ~ Lee Gutkind
 
@@ -15,7 +15,7 @@
 
 ## Template for Formulating a Presentation Proposal
 
-[PDF Template - Formulating a Proposal]([media/[template]_formulating_a_proposal.pdf](https://github.com/knitcodemonkey/processes/blob/master/media/%5Btemplate%5D_formulating_a_proposal.pdf))
+[PDF Template - Formulating a Proposal](https://github.com/knitcodemonkey/processes/blob/master/media/[template]_formulating_a_proposal.pdf)
 
 - “The problem I intend to solve”
 - How we viewed this in the past
@@ -26,7 +26,7 @@
 
 ## The Model, Document, Share Approach
 
-From [An Elegant Puzzle: Systems of Engineering Management](https://navinc.atlassian.net/wiki/spaces/ENG/pages/2685435985), this approach is useful for testing ideas and socializing approaches in a way that allows other teams to opt into learning from you. It optimizes for getting things right over doing them quickly, and as such is less useful for mandating practices to teams, which typically wants speed with a reduced focus on pinning down exactly the right practices. Read the original article here: [Model, document and share.](https://lethain.com/model-document-share/)
+From [An Elegant Puzzle: Systems of Engineering Management](https://lethian.com/elegant-puzzle), this approach is useful for testing ideas and socializing approaches in a way that allows other teams to opt into learning from you. It optimizes for getting things right over doing them quickly, and as such is less useful for mandating practices to teams, which typically wants speed with a reduced focus on pinning down exactly the right practices. Read the original article here: [Model, document and share.](https://lethain.com/model-document-share/)
 
 ### Model
 
@@ -46,4 +46,4 @@ Share your document and experiences with others in some sort of public fashion. 
 
 Example of a Status Update slide
 
-![Example of a Status Update Slide](media/image-1.png)
+![Example of a Status Update Slide](/media/status_update_slide.png)
