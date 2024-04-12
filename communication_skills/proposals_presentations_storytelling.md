@@ -1,6 +1,6 @@
 # Proposals, Presentations, and Storytelling
 
-![Storytelling, a primitive art, is as old as the beginning of mankind. People want to receive what's out there in the form of stories, not just facts, opionion, analysis. ~ Lee Gutkind](media/storytelling.png)
+![Storytelling, a primitive art, is as old as the beginning of mankind. People want to receive what's out there in the form of stories, not just facts, opionion, analysis. ~ Lee Gutkind](https://github.com/knitcodemonkey/processes/blob/master/media/storytelling.png)
 
 > Storytelling, a primitive art, is as old as the beginning of mankind. People want to receive what's out there in the form of stories, not just facts, opionion, analysis. ~ Lee Gutkind
 
