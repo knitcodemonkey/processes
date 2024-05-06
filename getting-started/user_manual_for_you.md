@@ -24,8 +24,9 @@ You have a new manager, mentor, or team, and want to share the info pertinent to
 
 - What are their current priorities, problems and key initiatives?
 - How stressed are they? How busy are they? Do they have time to grow in their role, or are they grinding?
-- Is there anything you can do to help?
 - What is their manager’s priority for them?
+- What is keeping them up at night?
+- How can you best help them learn the product?
 - What are they trying to improve on themselves, and what are their goals?
 
 <h2>Meeting in the middle</h2>
