@@ -15,9 +15,13 @@ The wider blast radius does mean there is an increased chance the doc will chang
 
 ### Phrases I live by, and repeat like a broken record:
 
+> Is there a doc for this? We should create one and work on it together if there isn't.
+
+At first, people won't write docs because it won't be part of their process. This reminder is often all it takes to start that process. 
+
 > If someone asks a question, including yourself, answer the question with documentation. If the documentation doesn't exist, write the documentation, then answer the question with documentation.
 
-Ideally, document together so that you both know that you both understand.
+Saying this over and over and over and over does tend to get people to the point where they hear your voice in your head when someone asks a question. 
 
 > Documentation is a love letter to your future self. And your past self in the form of new hires.
 
@@ -26,10 +30,6 @@ You'll appreciate it in 3 weeks when you've forgotten everything about this.
 > Always be training your replacement. You can't get promoted, go on vacation, or expand your department if you don't leave documentation and training in your wake.
 
 Video tours. Create/Edit Document together. Delegate teaching to others so that they learn it well enough to give the tour or write the docs or teach someone else. 
-
-> Is there a doc for this? We should create one and work on it together if there isn't.
-
-At first, people won't write docs because it won't be part of their process. This reminder is often all it takes to start that process. 
 
 
 ## The Documention
