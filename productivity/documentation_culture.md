@@ -10,9 +10,10 @@ If they can't find it, it doesn't matter how accurate it is.
 
 The wider blast radius does mean there is an increased chance the doc will change in a way you can't predict, but that is also the goal. The documentation is there to serve those who need them; not those who wrote them. If the docs no longer serve their purpose, they should be edited, updated, or deleted with new docs taking their place. This takes more than one village to be done right. 
 
+
 ## The culture
 
-### Phrases I live by:
+### Phrases I live by, and repeat like a broken record:
 
 > If someone asks a question, including yourself, answer the question with documentation. If the documentation doesn't exist, write the documentation, then answer the question with documentation.
 
@@ -26,9 +27,10 @@ You'll appreciate it in 3 weeks when you've forgotten everything about this.
 
 Video tours. Create/Edit Document together. Delegate teaching to others so that they learn it well enough to give the tour or write the docs or teach someone else. 
 
-> The search bar is the most important feature of documentation.
+> Is there a doc for this? We should create one and work on it together if there isn't.
 
-If you can't find what you are looking for through the search bar, then the organization of the documentation doesn't matter. 
+At first, people won't write docs because it won't be part of their process. This reminder is often all it takes to start that process. 
+
 
 ## The Documention
 
