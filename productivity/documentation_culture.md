@@ -10,7 +10,9 @@ If they can't find it, it doesn't matter how accurate it is.
 
 The wider blast radius does mean there is an increased chance the doc will change in a way you can't predict, but that is also the goal. The documentation is there to serve those who need them; not those who wrote them. If the docs no longer serve their purpose, they should be edited, updated, or deleted with new docs taking their place. This takes more than one village to be done right. 
 
-## Phrases I live by:
+## The culture
+
+### Phrases I live by:
 
 > If someone asks a question, including yourself, answer the question with documentation. If the documentation doesn't exist, write the documentation, then answer the question with documentation.
 
@@ -28,33 +30,37 @@ Video tours. Create/Edit Document together. Delegate teaching to others so that 
 
 If you can't find what you are looking for through the search bar, then the organization of the documentation doesn't matter. 
 
-## The verbose things
+## The Documention
+
+### How do I document things?
+
+#### The verbose things
 
 Something that has worked for prior engineering teams is to have a channel in Slack where you can request a tour of some technology, process, etc. We have #dev-tours. The video is recorded, and added to a confluence doc with as many forms of documentation as possible. Transcripts, code snippets, explanations, links to additional resources, examples, etc.
 
 > "Hey, so I need someone to show me __________."
 > "Sure! Lets hop on zoom for a walk-through, record it, and post it in confluence along with any notes you made!"
 
-## The more prescriptive or less verbose things
+#### The more prescriptive or less verbose things
 Another way is to add/edit documents together. When you find yourself either explaining, or asking someone to explain something, open up a doc where both of you can type out the notes. This allows the questioner to write out what they understand, and for the answerer to rephrase until clarity has been reached. This can include anything from vocabulary words and their descriptions, code snippets and examples, and explanations of how it works and why. 
 
-## Organization
+### Organization
 
 > So how do I organize all this stuff?!
 
-Truth is, that is a hard question. You can sort your docs by action or by subject. 
+Truth is, that is a hard question. You can sort your docs by action or by subject. Regardless of how you organize it, your docs should be searchable.
 
-### Action-based organization
+#### Action-based organization
 
 The [Teleport docs](https://goteleport.com/docs/documentation-overview/) are a great example of action-based organization. This works well if the user already knows what they are trying to accomplish, but not the more specific details of what they need to accomplish it.
 
 ![teleport docs - action-based organization](https://github.com/user-attachments/assets/afaa34a5-ff46-4067-9092-79f2c16fb50e)
 
-### Subject-based organization
+#### Subject-based organization
 
 A great majority of documentation is written and organized based on the subject. This works well if you know the overview of what you need to do to accomplish the task, and just need to know the details for a particular subject. For instance, the [Datadog documentation guides](https://docs.datadoghq.com/all_guides/).
 
-### Searchable
+#### Searchable
 
 Regardless of the option, it won't work for everyone. The most important key is that your docs are searchable. 
 
