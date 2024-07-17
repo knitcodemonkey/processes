@@ -1,3 +1,5 @@
+# How do you foster a documentation culture?
+
 Something that has worked for prior engineering teams is to have a channel in Slack where you can request a tour of some technology, process, etc. We have #dev-tours. The video is recorded, and added to a confluence doc with as many forms of documentation as possible. Transcripts, code snippets, explanations, links to additional resources, examples, etc.
 
 - "Hey, so I need someone to show me __________." "Sure! Lets hop on zoom and record it to put in confluence!"
