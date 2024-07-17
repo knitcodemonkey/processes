@@ -60,6 +60,9 @@ The [Teleport docs](https://goteleport.com/docs/documentation-overview/) are a g
 
 A great majority of documentation is written and organized based on the subject. This works well if you know the overview of what you need to do to accomplish the task, and just need to know the details for a particular subject. For instance, the [Datadog documentation guides](https://docs.datadoghq.com/all_guides/).
 
+![Screenshot 2024-07-17 at 9 58 53 AM](https://github.com/user-attachments/assets/4c9ec36b-92c0-4795-9f5d-3bb3e68bb956)
+
+
 #### Searchable
 
 Regardless of the option, it won't work for everyone. The most important key is that your docs are searchable. 
