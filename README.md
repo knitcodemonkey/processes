@@ -4,9 +4,20 @@ This repo has an assortment of some of my favorite articles I use regularly as a
 
 ## Some of my favorite articles
 
-- [Bullet Journaling for Work](https://github.com/knitcodemonkey/processes/blob/master/productivity/bullet_journaling_for_adhd.md)
-- [Engineering Design Principles](https://github.com/knitcodemonkey/processes/blob/master/software-design_cs_and_engineering/engineering_design_principles.md)
+### Leadership and Getting Started
 - [Holistic Approach to Leadership](https://github.com/knitcodemonkey/processes/blob/master/getting-started/holistic_approach_to_leadership.md)
-- [Proposals, Presentations, and Storytelling](https://github.com/knitcodemonkey/processes/blob/master/communication_skills/proposals_presentations_storytelling.md)
-- [Team Sell Interview](https://github.com/knitcodemonkey/processes/blob/master/communication_skills/team_sell_interview.md)
 - [User Manual for You](https://github.com/knitcodemonkey/processes/blob/master/getting-started/user_manual_for_you.md)
+
+### Workflow principles
+- [Bullet Journaling for Work](https://github.com/knitcodemonkey/processes/blob/master/productivity/bullet_journaling_for_adhd.md)
+- [Documentation Culture](https://github.com/knitcodemonkey/processes/blob/master/productivity/documentation_culture.md)
+- [Proposals, Presentations, and Storytelling](https://github.com/knitcodemonkey/processes/blob/master/communication_skills/proposals_presentations_storytelling.md)
+
+### Engineering Principles
+- [Engineering Design Principles](https://github.com/knitcodemonkey/processes/blob/master/software-design_cs_and_engineering/engineering_design_principles.md)
+- [Code Reviews](https://github.com/knitcodemonkey/processes/blob/master/software-design_cs_and_engineering/code-reviews.md)
+- [Pyramid of Basic Coding Principles](https://github.com/knitcodemonkey/processes/blob/master/software-design_cs_and_engineering/the_pyramid_of_basic_coding_principles.md)
+
+### Management
+- [Team Sell Interview](https://github.com/knitcodemonkey/processes/blob/master/communication_skills/team_sell_interview.md)
+
