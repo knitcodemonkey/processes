@@ -67,7 +67,7 @@ Write up, in detail, the problem you had, how you approached your adoption and t
 
 Share your document and experiences with others in some sort of public fashion. Let the appropriate people know about it, but do not ask anyone else to adopt it or lobby for the organization at large to mandate it. What worked for you may be a poor fit for other areas of the business. If others see the same constraints in their world that you saw in yours, they’ll be eager to learn from your approach.
 
-## Slide Framework
+## Slide Framework for Status Updates
 
 [Jasper Polak on Twitter](https://twitter.com/polak_jasper/status/1550816018158833667)
 
