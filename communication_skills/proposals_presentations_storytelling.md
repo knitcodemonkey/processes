@@ -4,16 +4,27 @@
 
 > Storytelling, a primitive art, is as old as the beginning of mankind. People want to receive what's out there in the form of stories, not just facts, opionion, analysis. ~ Lee Gutkind
 
+# Universal Tips
+
+- Understand the motivations of your audience, and target their needs
+- People buy emotions, not logic. Tell the story that creates the desired emotion.
+- Add your data sources and references to the presenter notes
+  - You don’t need to put them on the screen. This will help you access that data easily when questions are asked, but save space on the slides, and audience mental capacity for more important info.
+
+
+# Conference Talks and Presentations
+
 - Define the one sentence you want everyone to remember after the presentation is over.
   - Write this down on a sticky note, and keep it front and center when designing slides
   - If the information doesn’t directly correlate with that sentence, or move the story forward, delete it
 - Groups of 3
   - Humans can only remember a max of 5 things at a time, with the ideal number being closer to 3
   - Have no more than 3 main points with no more than 3 sub-points.
-- Add your data sources and references to the presenter notes
-  - You don’t need to put them on the screen. This will help you access that data easily when questions are asked, but save space on the slides, and audience mental capacity for more important info.
 
-## Template for Formulating a Presentation Proposal
+  
+# Template for Formulating a Proposal
+
+## Proposal to committee or leadership
 
 [PDF Template - Formulating a Proposal](/media/[template]_formulating_a_proposal.pdf)
 
